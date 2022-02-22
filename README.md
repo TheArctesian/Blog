@@ -1,6 +1,7 @@
-# { PROJECT NAME } 
+# Personal Blog
 
-## Overview 
+## Overview: 
+A chance to flex webdev skills and also to make a public log of my thoughts throught the years. I also want to learn IPFS hosting so am using this as a project to learn it. 
 
 <hr>
 ## Info
