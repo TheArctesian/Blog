@@ -17,12 +17,24 @@ Format:
 <br>
 <strong>Time: </strong>16.45 - 17.05
 <br>
-<strong>Date: </strong>22.2.22 *nice*
+<strong>Date: </strong>22.2.22 _nice_
 <br>
 <strong>Goal: </strong> init project
 <br>
-<strong>Description: </strong> 
+<strong>Description: </strong>
 inited the project
 
 <hr>
 
+<strong>Name: </strong>Arctesian
+<br>
+<strong>Time: </strong>16.45 - 17.05
+<br>
+<strong>Date: </strong>23.2.22 _nice_
+<br>
+<strong>Goal: </strong> created index.html
+<br>
+<strong>Description: </strong>
+created index.html forward it to danielokita.com just have to wait now.
+
+<hr>
